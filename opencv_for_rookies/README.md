@@ -1,4 +1,4 @@
-# OpenCV code samples (A introduction for rookies)
+# OpenCV code samples (An introduction for rookies)
 Here you can find some codes written in *C++* using *OpenCV*. This is a first approach for using very basic functions of *OpenCV*
 ## Contents:
 This section has the following .cpp files and two .h files in the include directory:
